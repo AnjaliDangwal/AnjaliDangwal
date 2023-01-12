@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjali Dangwal</h1>
-<h3 align="center">A passionate Full Stack Dotnet developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="MyImg" width="400" src="https://images.unsplash.com/photo-1661956602944-249bcd04b63f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80">
 
 - 📫 How to reach me **anjalidangwalby@gmail.com**
